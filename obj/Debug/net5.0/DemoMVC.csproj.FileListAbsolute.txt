@@ -39,3 +39,5 @@ D:\netcore\DemoMVC\obj\Debug\net5.0\DemoMVC.pdb
 D:\netcore\DemoMVC\obj\Debug\net5.0\DemoMVC.genruntimeconfig.cache
 D:\netcore\DemoMVC\obj\Debug\net5.0\DemoMVC.csproj.CopyComplete
 D:\netcore\DemoMVC\obj\Debug\net5.0\Razor\Views\Shared\_LayoutNew.cshtml.g.cs
+D:\netcore\DemoMVC\obj\Debug\net5.0\Razor\Views\HelloWorld\index.cshtml.g.cs
+D:\netcore\DemoMVC\obj\Debug\net5.0\Razor\Views\HelloWorld\GetName.cshtml.g.cs
