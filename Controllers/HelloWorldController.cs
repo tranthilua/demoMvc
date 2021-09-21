@@ -16,11 +16,6 @@ namespace  DemoMVC.Controllersdot
         // 
         // GET: /HelloWorld/Welcome/ 
 
-        public IActionResult GetName(string name, int numTimes = 1);
-        {
-             ViewData["Message"] = "ahihihihi " + tranthilua;
-            ViewData["NumTimes"] = numTimes;
-            return View();
-        }
+   
     }
 }
